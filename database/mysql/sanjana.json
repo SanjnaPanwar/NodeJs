@@ -1,0 +1,20 @@
+[
+     {
+          "@Sanju1": {
+               "username": "sanjna",
+               "password": "@Sanju1",
+               "description": "moody",
+               "dob": "15-feb",
+               "hobbies": "a lot",
+               "gender": "female"
+          }
+     },
+     {
+          "username": "laddu",
+          "password": "@Laddu1",
+          "description": "melody",
+          "dob": "shivratri",
+          "hobbies": "grtting away",
+          "gender": "female"
+     }
+]
